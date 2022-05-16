@@ -1,0 +1,67 @@
+[
+    {
+        "lower_bound": 250,
+        "higher_bound": 500,
+        "markup_percent": 0.33
+    },
+    {
+        "lower_bound": 500,
+        "higher_bound": 750,
+        "markup_percent": 0.31
+    }, 
+    {
+        "lower_bound": 750,
+        "higher_bound": 1000,
+        "markup_percent": 0.29
+    },
+    {
+        "lower_bound": 1000,
+        "higher_bound": 1250,
+        "markup_percent": 0.27
+    },
+    {
+        "lower_bound": 1250,
+        "higher_bound": 1500,
+        "markup_percent": 0.25
+    },
+    {
+        "lower_bound": 1500,
+        "higher_bound": 1750,
+        "markup_percent": 0.23
+    },
+    {
+        "lower_bound": 1750,
+        "higher_bound": 2000,
+        "markup_percent": 0.21
+    },
+    {
+        "lower_bound": 2000,
+        "higher_bound": 2250,
+        "markup_percent": 0.19
+    },
+    {
+        "lower_bound": 2250,
+        "higher_bound": 2500,
+        "markup_percent": 0.17
+    },
+    {
+        "lower_bound": 2500,
+        "higher_bound": 2750,
+        "markup_percent": 0.15
+    },
+    {
+        "lower_bound": 2750,
+        "higher_bound": 3000,
+        "markup_percent": 0.14
+    },
+    {
+        "lower_bound": 3000,
+        "higher_bound": 3250,
+        "markup_percent": 0.13
+    },
+    {
+        "lower_bound": 3250,
+        "higher_bound": 3500,
+        "markup_percent": 0.12
+    }
+]
